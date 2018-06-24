@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xwz&#39;s Blog</title>
+  
+  <subtitle>Techblog &amp; DailyShare</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-06-24T07:20:44.473Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>xwzshare</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用Hexo和GithubPage搭建个人博客</title>
+    <link href="http://yoursite.com/2018/06/24/%E7%94%A8Hexo%E5%92%8CGithubPage%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/06/24/用Hexo和GithubPage搭建个人博客/</id>
+    <published>2018-06-24T07:20:44.000Z</published>
+    <updated>2018-06-24T07:20:44.473Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
